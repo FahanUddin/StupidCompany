@@ -1,6 +1,8 @@
 {
+    
+
     "name_and_link": [
-        "The Stupid Company"
+        "Stupid Company"
         
     ],
     "designation": [
@@ -36,7 +38,7 @@
         "open_for_opportunities": "Yes",
         "picture": "picture.png"
     },
-    "about": "Passionately stupid 🤓 | Incredibly dumb 🙉",
+    "about": "Passionately stupid 🤪. | Incredibly dumb 🙉.",
     "bio": "Sophomore CS Engineering student. I spend my leisure time contributing to open source projects and browsing Stack Overflow. I've hands-on experience in working on several projects that use Python, Node.js, Flutter, Java, etc. Most of my projects are released as open-source on GitHub.",
     "what_i_do": {
         "tools": [
